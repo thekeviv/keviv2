@@ -52,7 +52,7 @@ export default function Home() {
         >
           <div
             style={{
-              marginLeft: "85%",
+              marginLeft: "70%",
               marginTop: "-5%",
               display: "flex",
               flexDirection: "row",
