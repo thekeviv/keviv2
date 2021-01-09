@@ -123,10 +123,11 @@ export default function Home() {
               marginLeft: "30%",
               marginTop: "10%",
               marginBottom: "5%",
+              fontSize: "20px",
             }}
           >
             <a
-              style={{ textDecoration: "none", color: "white" }}
+              style={{ textDecoration: "none", color: "black" }}
               href="mailto:hello@viveksharma.dev"
             >
               Contact Me
